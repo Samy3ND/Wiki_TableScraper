@@ -1,5 +1,5 @@
 import streamlit as st
-import BeautifulSoup
+from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 st.title("Wikipedia Table Scraper")
