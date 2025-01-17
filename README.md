@@ -18,7 +18,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository or download the script.
 2. Install the required Python libraries:
    ```bash
-   pip install streamlit beautifulsoup4 pandas requests
+   pip install -r requirements.txt
    ```
 
 ## Usage
