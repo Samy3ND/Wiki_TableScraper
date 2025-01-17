@@ -47,3 +47,5 @@ if st.button("SCRAPE"):
             st.error(f"Error processing the table: {e}")
     else:
         st.warning("Please enter a valid Wikipedia URL starting with 'https://en.wikipedia.org'.")
+        
+st.markdown("Developed by : Samy3ND")
