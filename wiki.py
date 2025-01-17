@@ -48,4 +48,4 @@ if st.button("SCRAPE"):
     else:
         st.warning("Please enter a valid Wikipedia URL starting with 'https://en.wikipedia.org'.")
         
-st.markdown("Developed by : Samy3ND")
+st.markdown("Developed by : Samyog :smile") 
