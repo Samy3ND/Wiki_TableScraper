@@ -2,6 +2,14 @@
 
 This project is a Streamlit-based web application designed to scrape tables from any Wikipedia page and display the data in an interactive format. With this tool, users can quickly extract and view tabular data from Wikipedia.
 
+---
+
+## Live Demo
+
+Try the app here: [Wiki Table Scraper](https://wikitablescraper.streamlit.app/)
+
+---
+
 ## Features
 - Scrapes all tables from a specified Wikipedia URL.
 - Displays the scraped tables in a clean, interactive format.
